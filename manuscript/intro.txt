@@ -1,0 +1,22 @@
+#Linguagem de programação Rust
+Bem vindo! Este livro vai lhe ensinar a linguagem de programação Rust.
+    Rust é uma linguagem de programação de sistemas(system-language). Diferentemente de linguagens para  aplicações. Rust e focada em três grandes objetivos:
+segurança, performance e paralelismo. Ela mantém esses objetivos sem possuir um “garbage collector”, tornando-a uma útil linguagem para um numero de situações
+em que outras linguagens não o são, tais como: embarcar em outras linguagens; programas com especificidade quanto ao tamanho e que requerem performance;
+escrever código de baixo nível como drivers e sistemas operacionais.
+      Rust é uma forte candidata sob o ponto de vista da programação paralela  pois tem inúmeras verificações em tempo de compilação que não produzem “overhead” além
+de eliminar tambem todas as “data-races”. Rust também objetiva  as abstrações de custo zero (zero-coast abstraction) oque  em alguns momentos podea parecer como
+uma linguagem de alto nível. Apesar disso, Rust  continua permitindo um controle preciso como qualquer outra linguagem de baixo-nível.
+
+O livro se divide em sete partes. Esta introdução é a primeira, depois temos:
+Começando – Preparando-se para o desenvolvimento Rust.
+Aprendendo Rust – Aprenda Rust através de pequenos projetos.
+Rust efetivo – Conceitos de alto nível para escrever códigos de qualidade.
+Sintaxe e Semântica – Cada bit do Rust dividido em pequenas partes.
+ Nightly Rust – Últimas features que ainda não estão estáveis.
+Glossário -  Uma referência dos termos utilizados neste livro.
+Pesquisa acadêmica – Litaraturas que influenciaram a linguagem Rust.
+
+    Após ler esta introdução você deve mergulhar  e dar prosseguimento aos seus estudos indo para a próxima parte 'Aprendendo Rust' ou 'Sintaxe e Semântica',
+dependendo da sua preferência. 'Aprendendo Rust' é mais indicado caso você queira colocar a mão na massa imediatamente, 'Sintaxe e Semântica' é para aqueles
+que preferem começar mais devagar.
